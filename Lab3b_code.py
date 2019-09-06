@@ -12,7 +12,6 @@ w=20*12 # width of land in inches
 
 Area = w*l # area of land in square inches
 def runoff_gallons(rainwater):
-#rainwater=1; #amount of rainfall in rainfall_inches
     rainfall_inches = Area*float(rainwater)
     runoff_gallons = rainfall_inches/231
     print runoff_gallons 
