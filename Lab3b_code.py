@@ -4,7 +4,7 @@
 # September 9th 2019
 
 # This script calculates rain runoff of a single 
-# small area of land in Kenya with rainfal
+# small area of land in Kenya with rainfall
 # provided by user input
 
 l=50*12 # length of land in inches
